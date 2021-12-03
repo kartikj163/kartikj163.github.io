@@ -18,3 +18,4 @@ dependencies:
     - ipywidgets
     - bqplot
     - mpld3
+    - statsmodels
