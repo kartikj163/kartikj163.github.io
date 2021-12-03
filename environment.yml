@@ -17,4 +17,4 @@ dependencies:
     - plotly
     - ipywidgets
     - bqplot
-  
+    - mpld3
