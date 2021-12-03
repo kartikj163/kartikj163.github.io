@@ -19,3 +19,4 @@ dependencies:
     - bqplot
     - mpld3
     - statsmodels
+    - xlrd
