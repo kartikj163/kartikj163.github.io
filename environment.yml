@@ -2,9 +2,19 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - python
   - numpy
-  - matplotlib=3.2.2
-  - pandas
-  - seaborn
-  - mpld3
+  - cartopy
+  - plotly
+  - geopandas
+  - geoplot
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - seaborn
+    - plotly
+    - ipywidgets
+    - bqplot
   
