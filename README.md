@@ -7,4 +7,4 @@
 <h2> AUTHOR: KARTIK JADHAV </h2> 
 
 <h2>MOTIVATION:</h2>
-<h3>Many people feel that global warming is a hoax and that it is not a major problem. We need to educate people about global warming in order to have a meaningful impact on it.</h3>
+Many people feel that global warming is a hoax and that it is not a major problem. We need to educate people about global warming in order to have a meaningful impact on it.
