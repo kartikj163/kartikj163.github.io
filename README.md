@@ -1,7 +1,7 @@
 <h1> Final Project </h1>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kartikj163/kartikj163.github.io/master?labpath=Jadhav-Kartik-Final-Project-Part2.ipynb)
-
+<h2> TITLE: Public opinions and perspectives on Global Warming. </h2>
 <h2> AUTHOR: KARTIK JADHAV </h2> 
 
 <h3>MOTIVATION:</h3>
