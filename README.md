@@ -41,3 +41,39 @@ should do more to combat it?
 10. Have the republican leaning states reduced the usage of renewable resources as a percentage of their total power consumption?
 
 11. What year did most states see a major growth in the use of renewable energy, and what could be the cause of this increase?
+
+<h4> SOME OF MY KEY VISUALIZATIONS </H4>
+
+![PLOT1](https://user-images.githubusercontent.com/17830967/144704306-c06154bb-2c3a-4211-bf01-fa05d68d5662.PNG)   
+
+
+The map essentially depicts the aggregate value for a certain property by state. For a state with a high count, a darker tint is used. The map plot is useful for comparing values and displaying categories across regions. A bar chart depicting the comparison of the top 20 states backs up this claim. The bar chart can be used to compare values in different subsets of your data.
+
+![plot2](https://user-images.githubusercontent.com/17830967/144704368-4d5a2dc6-5f66-4331-9ea5-53e7a7d3b682.PNG)
+
+Based on the graphs above, we may deduce that as the number of republican voters rises, fewer people believe that global warming should be a key priority for the next president and Congress, and that citizens and local governments should do more to combat it.
+
+![plot3](https://user-images.githubusercontent.com/17830967/144704405-668aa865-dfb8-4001-94f1-5133d53e42f0.PNG)
+
+
+As seen in the graph above, as the number of Republican voters in a county rises, it's possible that a higher percentage of poll respondents in that county reject measures that prioritize, address, and improve responsibility for global warming
+
+Which Republican and Democratic states consume the most renewable energy?
+
+
+![plot4](https://user-images.githubusercontent.com/17830967/144704448-2cf99797-bca8-4a17-9234-5d9bb3a74b82.PNG)
+
+The states that are leading in Republican and Democratic party votes are shown on the map. The graphic allows the user to choose a state and see the trend line between different parties' votes.
+
+![plot5](https://user-images.githubusercontent.com/17830967/144704493-1dfc61ce-1da5-4de8-9997-97045a55cf8d.PNG)
+
+The graph below depicts how each state has fared in terms of using renewable energy to tackle the global warming crisis throughout time. After 2010, the use of renewable energy increased significantly in most states, as shown in the graph. This might be attributed to President Barack Obama's Clean Energy and Recovery Act of 2009, which has been dubbed the "biggest energy law in history."
+
+![plot6](https://user-images.githubusercontent.com/17830967/144704561-7118b127-c6cb-4633-8ef6-312037ebaa40.PNG)
+
+
+
+
+
+
+
