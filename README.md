@@ -9,36 +9,21 @@ Many people feel that global warming is a hoax and that it is not a major proble
 
 <h3>DATA SOURCE:</h3>
 1. Data from a survey conducted by Yale University on global warming at the state and county levels. https://climatecommunication.yale.edu/ , SIZE = (4563, 64) . As mentioned on the link provided above this dataset can be utilized solely for - research, scholarly or academic purposes.
-
-2. County level Election data: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ , size = (31578, 13) . This is the community of Harvard and worldwide researchers who share data in the Harvard Dataverse Repository, and is an open source, that allows other users free access to the data and utilize the same to derive some meaningful insights based on their individual study / research.
-
-3. Net Generation of Electricity by State and Type of Energy Produced by Energy Source data from 1990 to 2020, which includes the type of energy source generated for each state. The dataset can be downloaded from: https://www.eia.gov/electricity/data/state/ , SIZE = (52296, 6). This datasource is given by the United States Energy Information Administration and is open to anyone who wants to conduct research on energy consumption. This is an open data source, meaning you can download, modify, and reuse it for free.
-
-4. Harvard dataverse dataset, which contains data on the number of votes each presidential candidate earned in each state from 1976 to 2020.The dataset can be downloaded from: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX , SIZE = (4287, 15) . This was found on Harvard Dataverse Repository, and is an open data meaning it is available for anyone and everyone for access, modification, and reuse.
+<br />2. County level Election data: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ , size = (31578, 13) . This is the community of Harvard and worldwide researchers who share data in the Harvard Dataverse Repository, and is an open source, that allows other users free access to the data and utilize the same to derive some meaningful insights based on their individual study / research.
+<br />3. Net Generation of Electricity by State and Type of Energy Produced by Energy Source data from 1990 to 2020, which includes the type of energy source generated for each state. The dataset can be downloaded from: https://www.eia.gov/electricity/data/state/ , SIZE = (52296, 6). This datasource is given by the United States Energy Information Administration and is open to anyone who wants to conduct research on energy consumption. This is an open data source, meaning you can download, modify, and reuse it for free.
+<br />4. Harvard dataverse dataset, which contains data on the number of votes each presidential candidate earned in each state from 1976 to 2020.The dataset can be downloaded from: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX , SIZE = (4287, 15) . This was found on Harvard Dataverse Repository, and is an open data meaning it is available for anyone and everyone for access, modification, and reuse.
 
 <h4> I'll be answering the following key questions through my visualizations - </h4>
-1. Comparison of different states in terms of the percentage of people who oppose the idea of combating global warming in various categories.
-   
-2. Comparing several citizen viewpoints in a given state against one another to determine what percentage of people in that state oppose one viewpoint over another when it comes 
-to addressing global warming.  
-
-3. Which were the top 10 winning Republican / Democrat states?
-
-4. Do Republican voters believe or support the idea that global warming should be a key priority for the next president and Congress, and that citizens and local governments 
-should do more to combat it?
-
-5. What percentage of Democratic and Republican voters oppose a certain global warming viewpoint?
-
-6. Will there be an impact on actions that prioritize, address, and improve accountability for global warming if the number of Republican voters in the state rises?
-
-7. Which states are in the top N in terms of renewable energy consumption? In this case, N might be any number that the user wishes to see.
-
-8. Which Republican and Democratic states consume the most renewable energy?
-
-9. Have the republican leaning states reduced the usage of renewable resources as a percentage of their total power consumption?
-
-10. What year did most states see a major growth in the use of renewable energy, and what could be the cause of this increase?
-
+1. Comparison of different states in terms of the percentage of people who oppose the idea of combating global warming in various categories.   
+<br />2. Comparing several citizen viewpoints in a given state against one another to determine what percentage of people in that state oppose one viewpoint over another when it comes to addressing global warming.  
+<br />3. Which were the top 10 winning Republican / Democrat states?
+<br />4. Do Republican voters believe or support the idea that global warming should be a key priority for the next president and Congress, and that citizens and local governments should do more to combat it?
+<br />5. What percentage of Democratic and Republican voters oppose a certain global warming viewpoint?
+<br />6. Will there be an impact on actions that prioritize, address, and improve accountability for global warming if the number of Republican voters in the state rises?
+<br />7. Which states are in the top N in terms of renewable energy consumption? In this case, N might be any number that the user wishes to see.
+<br />8. Which Republican and Democratic states consume the most renewable energy?
+<br />9. Have the republican leaning states reduced the usage of renewable resources as a percentage of their total power consumption?
+<br />10. What year did most states see a major growth in the use of renewable energy, and what could be the cause of this increase?
 <h4> SOME OF MY KEY VISUALIZATIONS </H4>
 
 ![PLOT1](https://user-images.githubusercontent.com/17830967/144704306-c06154bb-2c3a-4211-bf01-fa05d68d5662.PNG)   
@@ -77,16 +62,16 @@ CONCLUSION:
 SOURCE:
 
 https://coderzcolumn.com/tutorials/data-science/interactive-plotting-in-python-jupyter-notebook-using-bqplot
-https://geopandas.org/en/stable/docs/user_guide/mapping.html
-https://stackoverflow.com/questions/69235532/add-dropdown-button-to-plotly-express-choropleth-map
-https://swdevnotes.com/python/2021/interactive-charts-with-ipywidgets-matplotlib/
-https://www.geeksforgeeks.org/grouped-barplots-in-python-with-seaborn/
-https://seaborn.pydata.org/examples/index.html
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html
-https://seaborn.pydata.org/generated/seaborn.lineplot.html
-https://plotly.com/python/bar-charts/
-https://bqplot.readthedocs.io/en/latest/_generate/bqplot.marks.Bars.html
-https://python-visualization.github.io/folium/quickstart.html
+<br />https://geopandas.org/en/stable/docs/user_guide/mapping.html
+<br />https://stackoverflow.com/questions/69235532/add-dropdown-button-to-plotly-express-choropleth-map
+<br />https://swdevnotes.com/python/2021/interactive-charts-with-ipywidgets-matplotlib/
+<br />https://www.geeksforgeeks.org/grouped-barplots-in-python-with-seaborn/
+<br />https://seaborn.pydata.org/examples/index.html
+<br />https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html
+<br />https://seaborn.pydata.org/generated/seaborn.lineplot.html
+<br />https://plotly.com/python/bar-charts/
+<br />https://bqplot.readthedocs.io/en/latest/_generate/bqplot.marks.Bars.html
+<br />https://python-visualization.github.io/folium/quickstart.html
 
 
 
