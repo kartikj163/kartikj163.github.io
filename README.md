@@ -25,11 +25,14 @@ Many people feel that global warming is a hoax and that it is not a major proble
 <br />9. Have the republican leaning states reduced the usage of renewable resources as a percentage of their total power consumption?
 <br />10. What year did most states see a major growth in the use of renewable energy, and what could be the cause of this increase?
 <h4> SOME OF MY KEY VISUALIZATIONS </H4>
+<h4> CONTEXTUAL VISUALIZATION 1 </H4>
 
 ![PLOT1](https://user-images.githubusercontent.com/17830967/144704306-c06154bb-2c3a-4211-bf01-fa05d68d5662.PNG)   
 
 
 The map essentially depicts the aggregate value for a certain property by state. For a state with a high count, a darker tint is used. The map plot is useful for comparing values and displaying categories across regions. A bar chart depicting the comparison of the top 20 states backs up this claim. The bar chart can be used to compare values in different subsets of your data.
+
+<h4> CONTEXTUAL VISUALIZATION 2 </H4>
 
 ![plot2](https://user-images.githubusercontent.com/17830967/144704368-4d5a2dc6-5f66-4331-9ea5-53e7a7d3b682.PNG)
 
@@ -39,12 +42,13 @@ Based on the graphs above, we may deduce that as the number of republican voters
 
 
 As seen in the graph above, as the number of Republican voters in a county rises, it's possible that a higher percentage of poll respondents in that county reject measures that prioritize, address, and improve responsibility for global warming
-
+<h4> CONTEXTUAL VISUALIZATION 3 </H4>
 Which Republican and Democratic states consume the most renewable energy?
 
 
 ![plot4](https://user-images.githubusercontent.com/17830967/144704448-2cf99797-bca8-4a17-9234-5d9bb3a74b82.PNG)
 
+<H4> CENTRAL VISUALIZATION </H4>
 The states that are leading in Republican and Democratic party votes are shown on the map. The graphic allows the user to choose a state and see the trend line between different parties' votes.
 
 ![plot5](https://user-images.githubusercontent.com/17830967/144704493-1dfc61ce-1da5-4de8-9997-97045a55cf8d.PNG)
